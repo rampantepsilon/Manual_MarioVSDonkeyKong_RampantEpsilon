@@ -1,0 +1,522 @@
+[
+	{
+		"count": 1,
+		"name": "World 1-1",
+		"category": [
+			"W1",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 1-2",
+		"category": [
+			"W1",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 1-3",
+		"category": [
+			"W1",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 1-4",
+		"category": [
+			"W1",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 1-5",
+		"category": [
+			"W1",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 1-6",
+		"category": [
+			"W1",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 2-1",
+		"category": [
+			"W2",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 2-2",
+		"category": [
+			"W2",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 2-3",
+		"category": [
+			"W2",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 2-4",
+		"category": [
+			"W2",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 2-5",
+		"category": [
+			"W2",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 2-6",
+		"category": [
+			"W2",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 3-1",
+		"category": [
+			"W3",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 3-2",
+		"category": [
+			"W3",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 3-3",
+		"category": [
+			"W3",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 3-4",
+		"category": [
+			"W3",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 3-5",
+		"category": [
+			"W3",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 3-6",
+		"category": [
+			"W3",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 4-1",
+		"category": [
+			"W4",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 4-2",
+		"category": [
+			"W4",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 4-3",
+		"category": [
+			"W4",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 4-4",
+		"category": [
+			"W4",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 4-5",
+		"category": [
+			"W4",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 4-6",
+		"category": [
+			"W4",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 5-1",
+		"category": [
+			"W5",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 5-2",
+		"category": [
+			"W5",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 5-3",
+		"category": [
+			"W5",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 5-4",
+		"category": [
+			"W5",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 5-5",
+		"category": [
+			"W5",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 5-6",
+		"category": [
+			"W5",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 6-1",
+		"category": [
+			"W6",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 6-2",
+		"category": [
+			"W6",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 6-3",
+		"category": [
+			"W6",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 6-4",
+		"category": [
+			"W6",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 6-5",
+		"category": [
+			"W6",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 6-6",
+		"category": [
+			"W6",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 7-1",
+		"category": [
+			"W7",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 7-2",
+		"category": [
+			"W7",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 7-3",
+		"category": [
+			"W7",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 7-4",
+		"category": [
+			"W7",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 7-5",
+		"category": [
+			"W7",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 7-6",
+		"category": [
+			"W7",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 8-1",
+		"category": [
+			"W8",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 8-2",
+		"category": [
+			"W8",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 8-3",
+		"category": [
+			"W8",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 8-4",
+		"category": [
+			"W8",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 8-5",
+		"category": [
+			"W8",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 8-6",
+		"category": [
+			"W8",
+			"Levels"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "World 1 Boss",
+		"category": [
+			"W1"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World 2 Boss",
+		"category": [
+			"W2"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World 3 Boss",
+		"category": [
+			"W3"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World 4 Boss",
+		"category": [
+			"W4"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World 5 Boss",
+		"category": [
+			"W5"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World 6 Boss",
+		"category": [
+			"W6"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World 7 Boss",
+		"category": [
+			"W7"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World 8 Boss",
+		"category": [
+			"W8"
+		],
+		"progression": true
+	},
+	{
+		"count": "30",
+		"name": "Toy Mario",
+		"category": [
+			"Goal"
+		],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Controller Lock (5 Seconds)",
+		"category": [
+			"Traps"
+		],
+		"trap": true
+	},
+	{
+		"count": "20",
+		"name": "Restart Level",
+		"category": [
+			"Traps"
+		],
+		"trap": true
+	}
+]
