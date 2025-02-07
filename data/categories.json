@@ -1,0 +1,17 @@
+{
+    "Levels": {
+        "hidden": true
+    },
+    "Plus Levels": {
+        "hidden": true,
+        "yaml_option": [
+            "include_plus_levels"
+        ]
+    },
+    "Base Levels": {
+        "hidden": true,
+        "yaml_option": [
+            "include_base_levels"
+        ]
+    }
+}
