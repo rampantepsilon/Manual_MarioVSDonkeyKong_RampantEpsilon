@@ -2972,7 +2972,807 @@
 		"category": [
 			"Victory"
 		],
-		"requires": "|Toy Mario:25|",
+		"requires": "|Go Mode|",
 		"victory": true
+	},
+	{
+		"name": "Go Mode (1 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 1|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (2 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 2|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (3 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 3|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (4 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 4|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (5 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 5|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (6 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 6|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (7 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 7|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (8 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 8|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (9 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 9|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (10 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 10|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (11 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 11|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (12 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 12|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (13 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 13|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (14 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 14|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (15 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 15|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (16 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 16|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (17 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 17|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (18 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 18|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (19 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 19|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (20 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 20|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (21 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 21|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (22 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 22|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (23 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 23|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (24 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 24|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (25 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 25|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (26 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 26|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (27 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 27|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (28 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 28|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (29 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 29|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (30 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 30|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (31 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 31|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (32 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 32|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (33 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 33|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (34 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 34|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (35 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 35|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (36 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 36|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (37 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 37|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (38 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 38|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (39 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 39|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (40 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 40|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (41 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 41|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (42 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 42|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (43 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 43|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (44 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 44|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (45 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 45|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (46 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 46|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (47 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 47|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (48 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 48|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (49 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 49|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (50 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 50|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (51 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 51|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (52 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 52|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (53 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 53|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (54 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 54|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (55 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 55|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (56 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 56|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (57 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 57|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (58 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 58|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (59 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 59|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (60 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 60|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (61 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 61|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (62 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 62|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (63 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 63|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (64 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 64|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (65 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 65|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (66 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 66|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (67 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 67|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (68 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 68|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (69 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 69|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (70 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 70|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (71 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 71|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (72 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 72|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (73 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 73|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (74 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 74|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (75 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 75|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (76 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 76|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (77 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 77|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (78 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 78|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (79 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 79|",
+		"place_item": [
+			"Go Mode"
+		]
+	},
+	{
+		"name": "Go Mode (80 Toy Mario)",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Toy Mario: 80|",
+		"place_item": [
+			"Go Mode"
+		]
 	}
 ]

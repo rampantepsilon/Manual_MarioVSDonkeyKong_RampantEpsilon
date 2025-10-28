@@ -1104,8 +1104,16 @@
 		"progression": true
 	},
 	{
-		"count": "40",
+		"count": "80",
 		"name": "Toy Mario",
+		"category": [
+			"Goal"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "1",
+		"name": "Go Mode",
 		"category": [
 			"Goal"
 		],

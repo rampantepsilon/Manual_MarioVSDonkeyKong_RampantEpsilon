@@ -34,8 +34,21 @@ class TotalCharactersToWinWith(Range):
     default = 50
 
 
+class ToyMarioGoal(Range):
+    """Number of achievements required as the win condition."""
+    range_start = 10
+    range_end = 80
+    default = 30
+
+class ToyMarioCount(Range):
+    range_start = 20
+    range_end = 80
+    default = 40
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["toy_mario_goal"] = ToyMarioGoal
+    options["toy_mario_count"] = ToyMarioCount
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

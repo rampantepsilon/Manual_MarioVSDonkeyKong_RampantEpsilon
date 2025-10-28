@@ -40,6 +40,14 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
     locationNamesToRemove = [] # List of location names
 
+    for region in multiworld.regions:
+        if region.player == player:
+            for location in list(region.locations):
+                if "Go Mode" in location.name:
+                    if location.name == "Go Mode ({} Toy Mario)".format(str(get_option_value(multiworld, player, "toy_mario_goal"))):
+                        continue
+                    locationNamesToRemove.append(location.name)
+
     # Add your code here to calculate which locations to remove
 
     for region in multiworld.regions:
@@ -49,6 +57,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
                     region.locations.remove(location)
     if hasattr(multiworld, "clear_location_cache"):
         multiworld.clear_location_cache()
+
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
@@ -63,6 +72,10 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     #
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
+
+    toy_mario_count = int(get_option_value(multiworld, player, "toy_mario_count"))
+    for i in range(80 - toy_mario_count):
+        itemNamesToRemove.append("Toy Mario")
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
