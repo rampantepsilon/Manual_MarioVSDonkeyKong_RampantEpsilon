@@ -60,12 +60,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
-def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    return item_pool
-
-# The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
-def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    # Use this hook to remove items from the item pool
+def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:# Use this hook to remove items from the item pool
     itemNamesToRemove = [] # List of item names
 
     # Add your code here to calculate which items to remove.
@@ -80,6 +75,11 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
+        
+    return item_pool
+
+# The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
+def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
 
     return item_pool
 
